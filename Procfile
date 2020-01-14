@@ -1,0 +1,1 @@
+web: bin/kabari -apikey $NEWS_API_KEY
